@@ -1,0 +1,9 @@
+﻿  SmartEnemy.cpp
+c:\users\ofir\documents\visual studio cpp\game\game\smartenemy.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ofir\documents\visual studio cpp\game\game\smartenemy.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ofir\documents\visual studio cpp\game\game\smartenemy.cpp(21): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Game.vcxproj -> C:\Users\OFIR\Documents\Visual Studio cpp\Game\x64\Debug\Game.exe

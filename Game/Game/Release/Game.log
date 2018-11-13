@@ -1,0 +1,14 @@
+﻿  Enemy.cpp
+c:\users\ofir\documents\visual studio cpp\game\game\entity.h(13): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Entity.cpp
+c:\users\ofir\documents\visual studio cpp\game\game\entity.h(13): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Game.cpp
+c:\users\ofir\documents\visual studio cpp\game\game\game.h(11): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameObjects.cpp
+c:\users\ofir\documents\visual studio cpp\game\game\entity.h(13): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  HUD.cpp
+c:\users\ofir\documents\visual studio cpp\game\game\hud.h(11): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+c:\users\ofir\documents\visual studio cpp\game\game\game.h(11): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+c:\users\ofir\documents\visual studio cpp\game\game\entity.h(13): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
